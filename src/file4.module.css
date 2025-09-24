@@ -1,0 +1,19 @@
+.img{
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    object-fit: fill;
+
+}
+
+.about{
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    font-size: 50px;
+    margin-top: 60px;
+    margin-left: 80px;
+    color: brown;
+    text-shadow: 10px 10px 12px red;
+    text-align: justify;
+    
+}

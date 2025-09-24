@@ -1,0 +1,27 @@
+.card{
+    height: 470px;
+    width: 350px;
+    background-color: lightgreen;
+    color: rgb(5, 37, 181);
+    margin: 20px 75px;
+    display: inline-block;
+}
+
+.card:hover{
+    border-radius: 50px;
+    transform: scale(1.1);
+}
+.img{
+    height: 250px;
+    width: 350px;
+    padding: 30px 80px;
+    display: inline-block;
+}
+.plan{
+    height: 40px;
+    width: 150px;
+    background-color: orangered;
+    border-radius: 30px;
+    margin: 10px 100px;
+    text-align: center;
+}
